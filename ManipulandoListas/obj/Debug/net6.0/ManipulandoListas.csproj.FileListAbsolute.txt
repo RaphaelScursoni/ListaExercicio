@@ -1,0 +1,15 @@
+C:\Users\Raphael Scursoni\source\repos\ManipulandoListas\ManipulandoListas\bin\Debug\net6.0\ManipulandoListas.exe
+C:\Users\Raphael Scursoni\source\repos\ManipulandoListas\ManipulandoListas\bin\Debug\net6.0\ManipulandoListas.deps.json
+C:\Users\Raphael Scursoni\source\repos\ManipulandoListas\ManipulandoListas\bin\Debug\net6.0\ManipulandoListas.runtimeconfig.json
+C:\Users\Raphael Scursoni\source\repos\ManipulandoListas\ManipulandoListas\bin\Debug\net6.0\ManipulandoListas.dll
+C:\Users\Raphael Scursoni\source\repos\ManipulandoListas\ManipulandoListas\bin\Debug\net6.0\ManipulandoListas.pdb
+C:\Users\Raphael Scursoni\source\repos\ManipulandoListas\ManipulandoListas\obj\Debug\net6.0\ManipulandoListas.csproj.AssemblyReference.cache
+C:\Users\Raphael Scursoni\source\repos\ManipulandoListas\ManipulandoListas\obj\Debug\net6.0\ManipulandoListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael Scursoni\source\repos\ManipulandoListas\ManipulandoListas\obj\Debug\net6.0\ManipulandoListas.AssemblyInfoInputs.cache
+C:\Users\Raphael Scursoni\source\repos\ManipulandoListas\ManipulandoListas\obj\Debug\net6.0\ManipulandoListas.AssemblyInfo.cs
+C:\Users\Raphael Scursoni\source\repos\ManipulandoListas\ManipulandoListas\obj\Debug\net6.0\ManipulandoListas.csproj.CoreCompileInputs.cache
+C:\Users\Raphael Scursoni\source\repos\ManipulandoListas\ManipulandoListas\obj\Debug\net6.0\ManipulandoListas.dll
+C:\Users\Raphael Scursoni\source\repos\ManipulandoListas\ManipulandoListas\obj\Debug\net6.0\refint\ManipulandoListas.dll
+C:\Users\Raphael Scursoni\source\repos\ManipulandoListas\ManipulandoListas\obj\Debug\net6.0\ManipulandoListas.pdb
+C:\Users\Raphael Scursoni\source\repos\ManipulandoListas\ManipulandoListas\obj\Debug\net6.0\ManipulandoListas.genruntimeconfig.cache
+C:\Users\Raphael Scursoni\source\repos\ManipulandoListas\ManipulandoListas\obj\Debug\net6.0\ref\ManipulandoListas.dll
